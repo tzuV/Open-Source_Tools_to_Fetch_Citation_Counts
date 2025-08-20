@@ -1,10 +1,8 @@
-# Open-Source_Tools_to_Fetch_Citation_Counts
+# Open-Source Tools for Citation Count Retrieval
 
-A comprehensive list of open-source tools and packages in Python and R that can fetch citation counts. This will include libraries, scripts, or plugins—like tools or APIs—that can be used in either automated or manual workflows.
+A comprehensive list of open-source tools and packages in Python and R that can be used to retrieve citation counts is provided. 
+***
 
+## Update
 
-## Update 
-
-A range a Python libraries have been tested and is located in the python folder 
-
-R libraries have been found but not yet tested
+A range of Python libraries has been tested and is located in the **python** folder. R libraries have been found but have not yet been tested.
