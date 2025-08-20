@@ -1,0 +1,1 @@
+A comprehensive list of open-source tools and packages in Python and R that can fetch citation counts. This will include libraries, scripts, or plugins—like tools or APIs—that can be used in either automated or manual workflows.
