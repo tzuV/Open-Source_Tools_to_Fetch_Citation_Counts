@@ -1,6 +1,6 @@
 # Open-Source Tools for Citation Count Retrieval
 
-A comprehensive list of open-source tools and packages in Python and R that can be used to retrieve citation counts is provided. 
+A comprehensive list of open-source tools and packages in Python and R that can be used to retrieve citation counts is provided while often also addtional metadata. 
 ***
 
 ## Update
